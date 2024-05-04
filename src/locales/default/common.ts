@@ -133,6 +133,7 @@ export default {
   tab: {
     chat: '会话',
     market: '发现',
+    me: '我',
     setting: '设置',
   },
   telemetry: {
@@ -150,5 +151,19 @@ export default {
     action: '升级',
     hasNew: '有可用更新',
     newVersion: '有新版本可用：{{version}}',
+  },
+  userPanel: {
+    billing: '账单管理',
+    defaultNickname: '社区版用户',
+    discord: '社区支持',
+    docs: '使用文档',
+    email: '邮件支持',
+    feedback: '反馈与建议',
+    help: '帮助中心',
+    moveGuide: '设置按钮搬到这里啦',
+    plans: '订阅方案',
+    profile: '账户管理',
+    setting: '应用设置',
+    usages: '用量统计',
   },
 };
